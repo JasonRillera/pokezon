@@ -5,7 +5,10 @@ import CartItem from './CartItem'
 function CartItems({ cartItems }) {
     return (
         <Container>
-            <Title>Shopping Cart</Title>
+            <img src={"/pokeBanner2.png"} alt="" />
+            <Title>
+                Shopping Cart
+            </Title>
             <hr/>
             <ItemsContainer>
                 {
@@ -31,6 +34,12 @@ const Container =  styled.div`
     margin-left: 50px;
     background-color: white;
     border-radius: 4px;
+    img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        margin-bottom: 5px;
+    }
 `
 
 const Title =  styled.div`
