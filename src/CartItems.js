@@ -32,12 +32,13 @@ const Container =  styled.div`
     margin-top: 60px;
     margin-right: 18px;
     margin-left: 50px;
+    margin-bottom: 30px;
     background-color: white;
     border-radius: 4px;
     img {
         max-width: 100%;
         height: auto;
-        border-radius: 8px;
+        border-radius: 4px;
         margin-bottom: 5px;
     }
 `

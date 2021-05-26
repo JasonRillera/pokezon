@@ -6,8 +6,10 @@ function CartTotal({ getTotalPrice, getCount }) {
 
     return (
         <Container>
-            <Subtotal>Subtotal ({getCount()} items): <br></br>
+            <Subtotal>Subtotal ({getCount()} items):
+            <span>
             <CurrencyFormat value={getTotalPrice()} displayType={'text'} thousandSeparator={true} prefix={'$'} />
+            </span>
             </Subtotal>
             <CheckoutButton>Proceed to Checkout</CheckoutButton>
         </Container>
@@ -23,10 +25,17 @@ const Container = styled.div`
     margin-right: 50px;
     background-color:white;
     border-radius: 4px;
+    position: fixed;
+    left: 71.5%;
+    width: 21%;
 `
 const Subtotal = styled.h2`
     margin-bottom: 16px;
-    font-weight: 600;
+    font-weight: 400;
+    span {
+        margin-left: 4px;
+        font-weight: 600;
+    }
 `
 
 const CheckoutButton = styled.button`
