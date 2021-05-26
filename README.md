@@ -1,5 +1,6 @@
 Pokezon with React JS
 
+![Image of Pokezon](https://i.ibb.co/CwFQWzd/home-Pokezon.png)
 
 
 # Getting Started with Create React App
