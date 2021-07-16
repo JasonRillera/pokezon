@@ -1,6 +1,6 @@
 # Pokezon
 
-## Collectables E-Commerce App using: React JS, Styled Components & Firebase
+Collectables E-Commerce App using: React JS, Styled Components & Firebase
 
 ![Pokezon Medium Gif](https://media.giphy.com/media/NmC14wrsnu2c55Mu21/giphy.gif)
 
