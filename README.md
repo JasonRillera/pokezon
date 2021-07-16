@@ -1,11 +1,12 @@
-Pokezon with React JS
+# Pokezon
 
-![Image of Pokezon](https://i.ibb.co/CwFQWzd/home-Pokezon.png)
+## Collectables E-Commerce App using: React JS, Styled Components & Firebase
 
-[Live Demo](https://clone-c78eb.web.app/)
+![Pokezon Medium Gif](https://media.giphy.com/media/NmC14wrsnu2c55Mu21/giphy.gif)
 
+## [Live Demo](https://clone-c78eb.web.app/)
 
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -74,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
