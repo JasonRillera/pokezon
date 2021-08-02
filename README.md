@@ -1,10 +1,14 @@
-# Pokezon
+# Pokezon | [Live Demo](https://clone-c78eb.web.app/)
 
-Collectables E-Commerce App using: React JS, Styled Components & Firebase
+Collectables E-Commerce App using:
 
-![Pokezon Medium Gif](https://media.giphy.com/media/NmC14wrsnu2c55Mu21/giphy.gif)
+- React JS
+- Styled Components
+- Firebase
 
-## [Live Demo](https://clone-c78eb.web.app/)
+![Pokezon Medium Gif](PokezonGif.gif)
+
+<!-- ## [Live Demo](https://clone-c78eb.web.app/) -->
 
 <!-- # Getting Started with Create React App
 
