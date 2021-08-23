@@ -1,4 +1,4 @@
-## Pokezon
+# Pokezon
 
 Pokezon is an e-commerce website inspired by amazon's functionality and layout. It was build with React JS / Redux, utilizes the Google Firebase for the backend, and the design has been made responsive through the use of Styled Components.
 
