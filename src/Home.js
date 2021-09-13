@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import Product from './Product';
 import { db } from './firebase';
+import bannerPokemon from './bannerPokemon.png';
 
 function Home() {
     const [products, setProducts] = useState([])
@@ -53,7 +54,7 @@ const Container =  styled.div`
     margin: 50px auto auto auto;
 `
 const Banner =  styled.div`
-    background-image: url('https://i.ibb.co/pj2hx0T/25pokemon-V2.png');
+    background-image: url(${bannerPokemon});
     background-size: cover;
     min-height: 600px;
     background-position: center;
