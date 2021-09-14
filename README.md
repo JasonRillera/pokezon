@@ -4,9 +4,9 @@ Pokezon is an e-commerce website inspired by amazon's functionality and layout. 
 
 ## Features
 
-- Leveraged the speed of single-page app development in React.js for fast and seamless UX
-- Developed and linked five models using Firestore enabling users to add, edit, and delete products in realtime
-- Leveraged Google Firebase to increase scalability of deployed site and integrated Google Authentication to enhance user security and data protections
+- Leveraged the speed of single-page app development in React.js for fast and seamless UX.
+- Developed and linked five models using Firestore enabling users to add, edit, and delete products in realtime.
+- Leveraged Google Firebase to increase scalability of deployed site and integrated Google Authentication to enhance user security and data protections.
 
 ## Author
 
